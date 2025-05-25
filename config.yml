@@ -3,16 +3,26 @@ languageCode: "ja"
 title: "IKUTA GREEN PARK PORTAL"
 theme: "PaperMod"
 
+# config.yml
+
 menu:
   main:
-    - name: "Plants"
+    - identifier: plants
+      name: "Plants"
       url: "/plants/"
-    - name: "Animals"
+      weight: 10
+    - identifier: animals
+      name: "Animals"
       url: "/animals/"
-    - name: "History"
+      weight: 20
+    - identifier: history
+      name: "History"
       url: "/history/"
-    - name: "Map"
+      weight: 30
+    - identifier: map
+      name: "Map"
       url: "/map/"
+      weight: 40
 
 params:
   profileMode:
