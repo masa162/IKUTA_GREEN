@@ -1,0 +1,44 @@
+baseURL: "https://masa162.github.io/IKUTA_GREEN/" # 新しいリポジトリ名に後で変更します
+languageCode: "ja"
+title: "IKUTA GREEN PARK PORTAL"
+theme: "PaperMod"
+
+menu:
+  main:
+    - name: "Plants"
+      url: "/plants/"
+    - name: "Animals"
+      url: "/animals/"
+    - name: "History"
+      url: "/history/"
+    - name: "Map"
+      url: "/map/"
+
+params:
+  profileMode:
+    enabled: true
+    title: "IKUTA GREEN PARK PORTAL"
+    subtitle: " "
+    imageUrl: "/images/forest-bg.jpg"
+    imageWidth: 1200
+    imageHeight: 600
+    buttons:
+      - name: Plants
+        url: "/plants/"
+      - name: Animals
+        url: "/animals/"
+      - name: History
+        url: "/history/"
+      - name: Map
+        url: "/map/"
+
+  assets:
+    favicon: "/images/leaf-icon.png"
+    custom_css:
+      - css/custom.scss
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
