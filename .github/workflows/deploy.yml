@@ -24,7 +24,10 @@ jobs:
         with:
           hugo-version: 'latest'
       - name: Build
+        env:
+          HUGO_BASEURL: https://masa162.github.io/IKUTA_GREEN/
         run: hugo --minify
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
