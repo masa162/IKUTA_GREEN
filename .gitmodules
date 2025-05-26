@@ -1,0 +1,3 @@
+[submodule "themes/ikuta-minimal-theme"]
+	path = themes/ikuta-minimal-theme
+	url = https://github.com/masa162/ikuta-minimal-theme.git
