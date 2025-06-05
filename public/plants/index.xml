@@ -4,10 +4,51 @@
     <title>Plants on IKUTA GREEN PARK PORTAL</title>
     <link>http://localhost:1313/IKUTA_GREEN/plants/</link>
     <description>Recent content in Plants on IKUTA GREEN PARK PORTAL</description>
-    <generator>Hugo -- 0.147.4</generator>
+    <generator>Hugo -- 0.147.3</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 25 May 2025 15:30:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/IKUTA_GREEN/plants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>カエデ</title>
+      <link>http://localhost:1313/IKUTA_GREEN/plants/kaede/</link>
+      <pubDate>Sun, 25 May 2025 15:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/IKUTA_GREEN/plants/kaede/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;学名&lt;/strong&gt;：&lt;em&gt;Acer spp.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;別名&lt;/strong&gt;：モミジ（紅葉）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;分類&lt;/strong&gt;：ムクロジ科カエデ属の落葉高木または低木&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;分布&lt;/strong&gt;：日本を含む東アジア、北アメリカ、ヨーロッパなどに広く分布。日本では約30種以上が自生し、園芸品種も豊富。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;特徴&#34;&gt;特徴&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;葉&lt;/strong&gt;：多くは掌状に切れ込みが入った形で、秋に鮮やかに紅葉する。種や品種によって形や大きさに違いがある。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;花&lt;/strong&gt;：春に小さな花を咲かせる。目立たないが、赤や黄色など色づくことも。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;実&lt;/strong&gt;：プロペラのような翼を持つ「翼果（よくか）」をつけ、風によって飛散する。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;樹高&lt;/strong&gt;：品種により異なるが、おおよそ2〜15mほど。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;生育環境&#34;&gt;生育環境&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;土壌&lt;/strong&gt;：水はけのよい腐植質に富んだ土壌を好む。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日当たり&lt;/strong&gt;：半日陰〜日向を好むが、強い西日や乾燥にはやや弱い。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;耐寒性&lt;/strong&gt;：非常に強く、日本全国で育成可能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;剪定&lt;/strong&gt;：成長が早いため、形を整える剪定が必要なこともある。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;利用用途&#34;&gt;利用・用途&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;庭園・公園樹&lt;/strong&gt;：紅葉が美しいため、観賞用として日本庭園や街路樹、公園に広く植栽されている。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;盆栽&lt;/strong&gt;：小型種は盆栽としても人気。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;木材&lt;/strong&gt;：硬くて加工性が高いため、家具や楽器、建材などにも用いられる（特に海外のメープル材）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文化&lt;/strong&gt;：紅葉狩りの対象として日本文化に深く根付いている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;備考豆知識&#34;&gt;備考・豆知識&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「モミジ」は本来「紅葉（こうよう）」を意味する言葉で、「カエデ」との厳密な違いは明確ではないが、一般には「切れ込みの深い葉を持つカエデ属植物」をモミジと呼ぶことが多い。&lt;/li&gt;
+&lt;li&gt;秋の紅葉の名所（京都の嵐山、日光、香嵐渓など）には多数のカエデが植えられている。&lt;/li&gt;
+&lt;li&gt;カエデの樹液からメープルシロップが採れるのは、主に北米原産のサトウカエデ（&lt;em&gt;Acer saccharum&lt;/em&gt;）。&lt;/li&gt;
+&lt;li&gt;江戸時代には園芸品種のカエデが多数作出され、「庭木の王様」として珍重された。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>コナラ</title>
       <link>http://localhost:1313/IKUTA_GREEN/plants/konara/</link>
@@ -23,16 +64,41 @@
       <link>http://localhost:1313/IKUTA_GREEN/plants/dokudami/</link>
       <pubDate>Sun, 25 May 2025 15:30:00 +0900</pubDate>
       <guid>http://localhost:1313/IKUTA_GREEN/plants/dokudami/</guid>
-      <description>&lt;h2 id=&#34;ドクダミ&#34;&gt;ドクダミ&lt;/h2&gt;
-&lt;p&gt;ドクダミ&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ドクダミ</title>
-      <link>http://localhost:1313/IKUTA_GREEN/plants/kaede/</link>
-      <pubDate>Sun, 25 May 2025 15:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/IKUTA_GREEN/plants/kaede/</guid>
-      <description>&lt;h2 id=&#34;ドクダミ&#34;&gt;ドクダミ&lt;/h2&gt;
-&lt;p&gt;ドクダミ&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;学名&lt;/strong&gt;：&lt;em&gt;Houttuynia cordata&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;別名&lt;/strong&gt;：ジュウヤク（十薬）、ドクダメ、ギョセイソウ（魚腥草）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;分類&lt;/strong&gt;：ドクダミ科ドクダミ属の多年草&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;分布&lt;/strong&gt;：日本全国、中国、東南アジアなど東アジアを中心に分布。山野や人家の周辺など、湿った場所に自生する。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;特徴&#34;&gt;特徴&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;葉&lt;/strong&gt;：心形で先端がとがっており、縁がなめらか。触ると独特の強い香りがする。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;花&lt;/strong&gt;：白い花びらのように見える部分は苞（ほう）で、中心の黄色い部分が本当の花。初夏（5月〜7月）に開花。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;実&lt;/strong&gt;：小さな実をつけるが目立たない。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;草丈&lt;/strong&gt;：およそ20〜50cm程度。地下茎で広がり、群生しやすい。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;生育環境&#34;&gt;生育環境&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;土壌&lt;/strong&gt;：湿り気のある肥沃な土壌を好むが、やせ地でも育つ。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日当たり&lt;/strong&gt;：半日陰〜日陰を好むが、日向でも育つ丈夫な植物。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;耐寒性&lt;/strong&gt;：非常に強く、日本の寒冷地でも越冬可能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;繁殖力&lt;/strong&gt;：地下茎で広がりやすく、雑草として扱われることもある。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;利用用途&#34;&gt;利用・用途&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;薬用&lt;/strong&gt;：古くから生薬「十薬」として利用されてきた。解毒作用、利尿作用、抗菌作用があるとされ、煎じて飲用するほか、湿布や入浴剤としても使用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;食用&lt;/strong&gt;：一部地域では若葉を天ぷらにして食べる例もあるが、独特の匂いが強く好みが分かれる。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;園芸&lt;/strong&gt;：斑入り品種（カメレオンドクダミなど）は観賞用として庭に植えられることもある。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;虫よけ&lt;/strong&gt;：乾燥させて室内に置くと、防虫効果があると言われている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;備考豆知識&#34;&gt;備考・豆知識&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「ドクダミ」という名前は「毒を矯める（正す）」という意味から来ており、実際は毒を持たない。&lt;/li&gt;
+&lt;li&gt;中国では「魚腥草（ユーシンツァオ）」と呼ばれ、その名の通り魚のような匂いがすることで知られる。&lt;/li&gt;
+&lt;li&gt;平安時代の薬草書にも記録があり、長く日本人の暮らしに根付いている薬草のひとつ。&lt;/li&gt;
+&lt;li&gt;地下茎で繁殖力が非常に高いため、一度植えると駆除が難しいとも言われる。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>公園の桜について</title>
