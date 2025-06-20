@@ -43,3 +43,14 @@
 }
 .logo a span { font-size: 0; }
 .logo a span::after { content: 'IKUTA GREEN'; font-size: 1.2rem; }
+
+.hero-image {
+  width: 100%;
+  max-width: 400px;       // PC画面での最大サイズ
+  aspect-ratio: 2 / 1;     // 元画像が横長の場合に正しい比率（例：1200×600）
+  height: auto;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;      // 必要に応じて。正円にしたくないなら削除
+}

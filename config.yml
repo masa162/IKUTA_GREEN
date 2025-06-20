@@ -41,7 +41,11 @@ params:
         url: "/history/"
       - name: Map
         url: "/map/"
-
+  header:
+    showNavToggle: true
+    showMenu: true     # ← 必須：モバイルでハンバーガーメニュー表示
+    showToggle: true   # ← 任意：ライト／ダークテーマ切り替えボタン表示
+    
   assets:
     favicon: "/images/leaf-icon.png"
     custom_css:
