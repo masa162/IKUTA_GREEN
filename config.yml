@@ -1,7 +1,7 @@
 baseURL: "https://masa162.github.io/IKUTA_GREEN/" # 新しいリポジトリ名に後で変更します
 languageCode: "ja"
 title: "IKUTA GREEN PARK PORTAL"
-theme: "PaperMod"
+theme: "ikuta-minimal-theme"
 
 # config.yml
 
