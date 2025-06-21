@@ -25,11 +25,12 @@ menu:
       weight: 40
 
 params:
+  search: true
   profileMode:
     enabled: true
     title: "IKUTA GREEN PARK PORTAL"
     subtitle: " "
-    imageUrl: "/images/forest-bg.jpg"
+    imageUrl: "/images/forest-bg.png"
     imageWidth: 1200
     imageHeight: 600
     buttons:
@@ -46,9 +47,10 @@ params:
     showMenu: true     # ← 必須：モバイルでハンバーガーメニュー表示
     showToggle: true   # ← 任意：ライト／ダークテーマ切り替えボタン表示
     
+  hideFooter: true  
   assets:
     favicon: "/images/leaf-icon.png"
-    custom_css:
+    css: 
       - css/custom.scss
 
 outputs:

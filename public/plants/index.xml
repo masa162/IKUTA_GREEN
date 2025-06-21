@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Plants on IKUTA GREEN PARK PORTAL</title>
-    <link>http://localhost:1313/IKUTA_GREEN/plants/</link>
+    <link>https://masa162.github.io/IKUTA_GREEN/plants/</link>
     <description>Recent content in Plants on IKUTA GREEN PARK PORTAL</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 25 May 2025 15:30:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/IKUTA_GREEN/plants/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://masa162.github.io/IKUTA_GREEN/plants/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>カエデ</title>
-      <link>http://localhost:1313/IKUTA_GREEN/plants/kaede/</link>
+      <link>https://masa162.github.io/IKUTA_GREEN/plants/kaede/</link>
       <pubDate>Sun, 25 May 2025 15:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/IKUTA_GREEN/plants/kaede/</guid>
+      <guid>https://masa162.github.io/IKUTA_GREEN/plants/kaede/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;学名&lt;/strong&gt;：&lt;em&gt;Acer spp.&lt;/em&gt;&lt;/li&gt;
@@ -51,9 +51,9 @@
     </item>
     <item>
       <title>コナラ</title>
-      <link>http://localhost:1313/IKUTA_GREEN/plants/konara/</link>
+      <link>https://masa162.github.io/IKUTA_GREEN/plants/konara/</link>
       <pubDate>Sun, 25 May 2025 15:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/IKUTA_GREEN/plants/konara/</guid>
+      <guid>https://masa162.github.io/IKUTA_GREEN/plants/konara/</guid>
       <description>&lt;h2 id=&#34;里山の代表的な樹木コナラ&#34;&gt;里山の代表的な樹木、コナラ&lt;/h2&gt;
 &lt;p&gt;コナラ（小楢）は、ブナ科コナラ属の落葉高木で、日本の里山の雑木林を代表する樹木の一つです。クヌギと共に、カブトムシやクワガタが集まる木としても知られています。&lt;/p&gt;
 &lt;p&gt;葉は特徴的な倒卵形で、縁には波を打つような大きな鋸歯（ギザギザ）があります。秋になると美しい黄褐色に紅葉します。&lt;/p&gt;
@@ -61,9 +61,9 @@
     </item>
     <item>
       <title>ドクダミ</title>
-      <link>http://localhost:1313/IKUTA_GREEN/plants/dokudami/</link>
+      <link>https://masa162.github.io/IKUTA_GREEN/plants/dokudami/</link>
       <pubDate>Sun, 25 May 2025 15:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/IKUTA_GREEN/plants/dokudami/</guid>
+      <guid>https://masa162.github.io/IKUTA_GREEN/plants/dokudami/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;学名&lt;/strong&gt;：&lt;em&gt;Houttuynia cordata&lt;/em&gt;&lt;/li&gt;
@@ -102,9 +102,9 @@
     </item>
     <item>
       <title>公園の桜について</title>
-      <link>http://localhost:1313/IKUTA_GREEN/plants/sakura/</link>
+      <link>https://masa162.github.io/IKUTA_GREEN/plants/sakura/</link>
       <pubDate>Sun, 25 May 2025 14:40:00 +0900</pubDate>
-      <guid>http://localhost:1313/IKUTA_GREEN/plants/sakura/</guid>
+      <guid>https://masa162.github.io/IKUTA_GREEN/plants/sakura/</guid>
       <description>&lt;p&gt;IKUTA GREEN PARKには、多様な桜の木があります。&lt;/p&gt;</description>
     </item>
   </channel>
